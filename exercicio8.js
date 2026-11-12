@@ -1,0 +1,12 @@
+let valor = 10;
+valor ++;
+console.log("o valor é",valor);
+valor --;
+console.log("o valor é",valor);
+valor *= 5;
+console.log("o valor é",valor);
+valor /= 5;
+console.log("o valor é",valor);
+valor ++;
+valor %= 2;
+console.log("o valor é",valor);
